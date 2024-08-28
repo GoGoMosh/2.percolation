@@ -20,7 +20,7 @@
 
 В PDF файле представлена вся теория и код
 
-[PDF файл](https://drive.google.com/file/d/1XnaJJla4MYiTuQBy_XLdeyL9ZXZxWiCE/view?usp=sharing)
+[PDF файл](https://drive.google.com/file/d/1YrwojV4FRdtxK0I27B5Zxp5HnQYPNgxT/view?usp=sharing)
 
 ## Автор
 

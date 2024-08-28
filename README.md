@@ -1,7 +1,7 @@
 # Теория перколяционных переходов
 
 <p align='center'>
-	<img src='https://ibb.co/89YWWbZ'> 
+	<img src='https://i.ibb.co/4p1662r/percolation.png'> 
 <p align='center'>
 
 
